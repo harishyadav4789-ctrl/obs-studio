@@ -19,5 +19,5 @@
     "spacesAroundRangeFormationOperators": false,
     "noAssignmentInExpressions": { "allowedFunctions" : ["XCTAssertNoThrow"] },
     "multiElementCollectionTrailingCommas": true,
-    "indentBlankLines": false,
+    "indentBlankLines": true,
 }
